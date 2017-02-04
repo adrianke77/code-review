@@ -67,11 +67,11 @@ A volunteering platform on which users can:
 #### Features
 
 * User management
-    Users can be admins(of programs), guardians or volunteer; beneficiaries are added by users to their own accounts
+    * Users can be admins(of programs), guardians or volunteer; beneficiaries are added by users to their own accounts
 * Program management
-    One can create programs, and browse existing programs to sign up their beneficiaries to them
+    * One can create programs, and browse existing programs to sign up their beneficiaries to them
 * View other users
-    One can review other users to see what programs they manage; beneficiary information of other users is hidden.
+    * One can review other users to see what programs they manage; beneficiary information of other users is hidden.
      
 
 #### Areas of Success (Code, Organization)
