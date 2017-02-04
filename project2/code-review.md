@@ -49,6 +49,7 @@ A volunteering platform on which users can:
         * remove volunteer from program;
         * delete program;
         * and remove beneficiary from program.
+        
 * Views(all ejs):
     * Auth folder: 
         * edit form, login form and signup form
