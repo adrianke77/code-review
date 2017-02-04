@@ -92,4 +92,4 @@ A volunteering platform on which users can:
 
 ## Additional Notes
 
-_Place any additional notes here_
+Promising website, would like to see it fully implemented and in use :)
