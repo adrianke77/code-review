@@ -69,7 +69,7 @@ A volunteering platform on which users can:
 * User management
     * Users can be admins(of programs), guardians or volunteer; beneficiaries are added by users to their own accounts
 * Program management
-    * One can create programs, and browse existing programs to sign up their beneficiaries to them
+    * One can create programs, browse existing programs to sign up their beneficiaries to them or volunteer for the program
 * View other users
     * One can review other users to see what programs they manage; beneficiary information of other users is hidden.
      
@@ -85,8 +85,8 @@ A volunteering platform on which users can:
 
 #### Areas for Improvement (Code, Organization)
 
-* Volunteering for programs not added yet
-  * probably as project was quite time-constrained; should be nominally doable as functionality would be similar to already implemented functionality 
+* Some tracking for program status?
+  * How many beneficiaries have signed up, maximum no of beneficiary slots available, no of volunteers still required etc
 * Age selector
   * Might be cleaner to implement as a number input field, admittedly not very significant
 
